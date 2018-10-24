@@ -90,7 +90,16 @@ texto{
     background-color: #1883ba;
     border-radius: 6px;
     border: 2px solid #0016b0;
-	}			
+	}	
+  section#contenedor{
+ margin: 0.15em auto;
+  max-width: 960px;
+  padding: 0.25em;
+  background:  blue;
+  text-align: center;
+
+
+  }		
 
 
 
