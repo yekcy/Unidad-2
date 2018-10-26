@@ -116,6 +116,10 @@ padding: 10px
   color: orange;
   
 }
+.footer{
 
-
+  background: blue;
+  bottom: 0;
+  position: fixed;
+}
 
