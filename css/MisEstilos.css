@@ -132,6 +132,12 @@ padding: 10px
 
 .logo {
 
+  
+  margin: 1em 0 1em 1em;
+  width: 50px;
+  position: absolute;
+  top: 1px;
+  left: 1px;
 
 
 }
