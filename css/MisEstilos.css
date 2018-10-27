@@ -140,13 +140,10 @@ padding: 10px
 
 .video{
 
-  border: 1px solid #CCC;
-  padding: 1em;
-  margin: 100em 0 1000em 1000em;
-  width: 50px;
-  position: absolute;
-  top: 1px;
-  left: 1px;
+  
+  position:center;
+position: center;
+text-align: center;
 
 }
 
