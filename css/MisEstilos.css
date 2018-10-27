@@ -129,10 +129,10 @@ padding: 10px
 
 .logo {
 
-  border: 2px solid #CCC;
+  border: 1px solid #CCC;
   padding: 1em;
-  margin: 1em 0 1em 4em;
-  width: 300px;
+  margin: 1em 0 1em 1em;
+  width: 150px;
 
 }
 
