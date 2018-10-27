@@ -118,14 +118,10 @@ padding: 10px
 }
 .footer{
 
-  background: blue;
-  bottom: 0;
+  
   position: relative;
   text-align: center;
-  color: red;
-
-  width: 80%;
-  font-family: relaway;
+  
 }
 
 .logo {
