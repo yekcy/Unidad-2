@@ -172,10 +172,34 @@ transition: all .5%;
 
 }
 
+.icon-facebook{
 
+  background: #2E406E;
 
+}
 
+.icon-twitter{
 
+  background: #339DC5;
+  
+}
+
+.icon-youtube{
+
+  background: #E83028;
+  
+}
+
+.icon-google{
+
+  background: #2E4067;
+  
+}
+
+.icon: first-child {
+
+  border-radius: 1rem;
+}
 
 
 
