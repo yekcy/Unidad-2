@@ -201,6 +201,15 @@ transition: all .5%;
   border-radius: 1rem;
 }
 
+.icon: last-child{
+border-radius: 0 0 0 1 rem;
+
+}
+
+
+
+
+
 
 
 
