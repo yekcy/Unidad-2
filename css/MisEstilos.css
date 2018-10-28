@@ -155,9 +155,33 @@ font-size: 1.5rem;
 display: flex;
  flex-direction: column;
  align-items:flex-end;
+
  z-index: 100;
 
 }
+
+
+.con{
+
+color: white;
+text-decoration: none;
+padding: .7rem;
+display: flex;
+transition: all .5%;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
